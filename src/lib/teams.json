@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "name": "Star Wars: Phantom Menace",
+        "logo": "phantom.jpg",
+        "synopsis": "After a millennia, an ancient evil returns seeking revenge. Meanwhile, Jedi Knight Qui-Gon Jinn discovers Anakin Skywalker: a young slave boy unusually strong with the Force.",
+        "rating": "PG",
+      "votes":0
+    },
+    {
+        "_id": 2,
+        "name": "Star Wars: A New Hope",
+        "logo": "hope.jpg",
+        "synopsis": "With the planet-destroying power of the Death Star, the Empire looks to cement its grip on the galaxy. Meanwhile, farm boy Luke Skywalker rises to face his destiny.",
+        "rating": "PG",
+        "votes":0
+    },
+    {
+        "_id": 3,
+        "name": "Star Wars: The Force Awakens",
+        "logo": "force.jpg",
+        "synopsis": "Thirty years after the Battle of Endor, a new threat has risen in the form of the First Order and the villainous Kylo Ren. Meanwhile, Rey, a young scavenger, discovers powers that will change her life -- and possibly save the galaxy.",
+        "rating": "PG-13",
+        "votes":0
+    }
+]
